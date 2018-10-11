@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\Microsoft.CSharp.Core.targets(84,5): warning MSB5021: "csc" and its child processes are being terminated in order to cancel the build.
+Build has been canceled.
