@@ -1,0 +1,4 @@
+C:\Users\Public\Documents\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\New Unity Project\obj\Debug\Assembly-CSharp.pdb

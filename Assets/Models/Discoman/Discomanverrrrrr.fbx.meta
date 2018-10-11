@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 0215f28d58e61004caa705bb95d35819
+timeCreated: 1509547663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Circle.002
+    100006: Circle.002_MeshPart0
+    100008: Circle.002_MeshPart1
+    100010: //RootNode
+    100012: Head
+    100014: Head_end
+    100016: Head_end_end
+    100018: L index 1
+    100020: L index 2
+    100022: L index 2_end
+    100024: L index 2_end_end
+    100026: L index knuck 1
+    100028: L index knuck 2
+    100030: l middle 1
+    100032: l middle knuck 1
+    100034: l middle kunk 2
+    100036: l midlle 2
+    100038: l midlle 2_end
+    100040: l midlle 2_end_end
+    100042: L pink 2
+    100044: L pink 2_end
+    100046: L pink 2_end_end
+    100048: L pinky 1
+    100050: L pinky kncuk 1
+    100052: L pinky knuck 2
+    100054: l thid 2
+    100056: l thid 2_end
+    100058: l thid 2_end_end
+    100060: l third 1
+    100062: l third knick 1
+    100064: l third knuc 2
+    100066: L thumb  1
+    100068: L thumb 2
+    100070: L thumb 2_end
+    100072: L thumb 2_end_end
+    100074: L thumb knuck 2
+    100076: L thumb nuck 1
+    100078: Left calf
+    100080: Left elbow
+    100082: LEft foot
+    100084: LEft foot_end
+    100086: LEft foot_end_end
+    100088: Left For arm
+    100090: LEft hand
+    100092: Left hip
+    100094: Left knee
+    100096: Left shoulder
+    100098: LEFt thigh
+    100100: Left upper arm
+    100102: Neck
+    100104: R index  1
+    100106: R index  2
+    100108: R index  2_end
+    100110: R index  2_end_end
+    100112: R index knnuckle 2
+    100114: R index knuck 1
+    100116: R Middle  1
+    100118: R middle  KNcuk 1
+    100120: R middle 2
+    100122: R middle 2_end
+    100124: R middle 2_end_end
+    100126: R Pinky  1
+    100128: R pinky kncu 2
+    100130: R third  1
+    100132: R third  2
+    100134: R third  2_end
+    100136: R third  2_end_end
+    100138: R third kncu 2
+    100140: R third knuck 1
+    100142: R thumb 1.001
+    100144: R thumb knuck 1
+    100146: R thumb knuck 2
+    100148: Right calf
+    100150: RIght Elbow
+    100152: RIght foot
+    100154: RIght foot_end
+    100156: RIght foot_end_end
+    100158: RIght forarm
+    100160: RIght hand
+    100162: right hhigh
+    100164: RIght Hip
+    100166: right knee
+    100168: Right shoulder
+    100170: RIght upper arm
+    100172: Rmiddl knuck 2
+    100174: Rpinky 2
+    100176: Rpinky 2_end
+    100178: Rpinky 2_end_end
+    100180: Rpinky knuck 1
+    100182: Rthumb  2
+    100184: Rthumb  2_end
+    100186: Rthumb  2_end_end
+    100188: Stomch
+    400000: Armature
+    400002: Chest
+    400004: Circle.002
+    400006: Circle.002_MeshPart0
+    400008: Circle.002_MeshPart1
+    400010: //RootNode
+    400012: Head
+    400014: Head_end
+    400016: Head_end_end
+    400018: L index 1
+    400020: L index 2
+    400022: L index 2_end
+    400024: L index 2_end_end
+    400026: L index knuck 1
+    400028: L index knuck 2
+    400030: l middle 1
+    400032: l middle knuck 1
+    400034: l middle kunk 2
+    400036: l midlle 2
+    400038: l midlle 2_end
+    400040: l midlle 2_end_end
+    400042: L pink 2
+    400044: L pink 2_end
+    400046: L pink 2_end_end
+    400048: L pinky 1
+    400050: L pinky kncuk 1
+    400052: L pinky knuck 2
+    400054: l thid 2
+    400056: l thid 2_end
+    400058: l thid 2_end_end
+    400060: l third 1
+    400062: l third knick 1
+    400064: l third knuc 2
+    400066: L thumb  1
+    400068: L thumb 2
+    400070: L thumb 2_end
+    400072: L thumb 2_end_end
+    400074: L thumb knuck 2
+    400076: L thumb nuck 1
+    400078: Left calf
+    400080: Left elbow
+    400082: LEft foot
+    400084: LEft foot_end
+    400086: LEft foot_end_end
+    400088: Left For arm
+    400090: LEft hand
+    400092: Left hip
+    400094: Left knee
+    400096: Left shoulder
+    400098: LEFt thigh
+    400100: Left upper arm
+    400102: Neck
+    400104: R index  1
+    400106: R index  2
+    400108: R index  2_end
+    400110: R index  2_end_end
+    400112: R index knnuckle 2
+    400114: R index knuck 1
+    400116: R Middle  1
+    400118: R middle  KNcuk 1
+    400120: R middle 2
+    400122: R middle 2_end
+    400124: R middle 2_end_end
+    400126: R Pinky  1
+    400128: R pinky kncu 2
+    400130: R third  1
+    400132: R third  2
+    400134: R third  2_end
+    400136: R third  2_end_end
+    400138: R third kncu 2
+    400140: R third knuck 1
+    400142: R thumb 1.001
+    400144: R thumb knuck 1
+    400146: R thumb knuck 2
+    400148: Right calf
+    400150: RIght Elbow
+    400152: RIght foot
+    400154: RIght foot_end
+    400156: RIght foot_end_end
+    400158: RIght forarm
+    400160: RIght hand
+    400162: right hhigh
+    400164: RIght Hip
+    400166: right knee
+    400168: Right shoulder
+    400170: RIght upper arm
+    400172: Rmiddl knuck 2
+    400174: Rpinky 2
+    400176: Rpinky 2_end
+    400178: Rpinky 2_end_end
+    400180: Rpinky knuck 1
+    400182: Rthumb  2
+    400184: Rthumb  2_end
+    400186: Rthumb  2_end_end
+    400188: Stomch
+    4300000: Circle.002_MeshPart0
+    4300002: Circle.002_MeshPart1
+    7400000: Armature|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Circle.002_MeshPart0
+    13700002: Circle.002_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 29b0ec483293bda47bf672261a944ff5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
